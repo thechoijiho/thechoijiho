@@ -1,8 +1,8 @@
 ## Hi there 👋
 ## 안녕하세요
 
-## 영남대학교 컴퓨터공학전공
-## Email - thechoijiho@gmail.com
+## · 영남대학교 컴퓨터공학전공
+## · Email - thechoijiho@gmail.com
 
 
 <!--
